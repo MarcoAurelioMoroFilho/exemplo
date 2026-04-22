@@ -5,4 +5,4 @@ lista.forEach(element => {
  impares++
 }});
 
-console.log("A quantidade ede impares é: "+ impares);
+console.log("A quantidade de impares é: "+ impares);
